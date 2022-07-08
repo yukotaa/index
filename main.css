@@ -6,6 +6,11 @@
     -webkit-user-select: none;
 }
 
+@font-face{
+ font-family: 'Proxima Nova Alt';
+ src: url(Proxima Nova Alt Light.otf);
+}
+
 video {
     object-fit: cover;
     width: 100vw;
