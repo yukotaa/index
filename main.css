@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
 * {
     overflow: hidden;
     box-sizing: border-box;
     font-family: 'Proxima Nova Alt';
+    font-family: 'Poppins', sans-serif;
     color: #fff;
     -webkit-user-select: none;
 }
